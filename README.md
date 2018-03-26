@@ -1,1 +1,1 @@
-# [WIKI](main/wiki)
+# [WIKI](/main/wiki)
