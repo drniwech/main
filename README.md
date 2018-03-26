@@ -1,1 +1,1 @@
-# [WIKI](/main/wiki)
+# [WIKI](https://github.com/drniwech/main/wiki)
